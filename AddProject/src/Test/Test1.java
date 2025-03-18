@@ -1,5 +1,7 @@
 package Test;
 
 public class Test1 {
-main()
+public static void main(String[] args) {
+	
+}
 }
